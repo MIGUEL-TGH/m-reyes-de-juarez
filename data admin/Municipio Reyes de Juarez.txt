@@ -1,0 +1,74 @@
+Página Web
+	https://losreyesdejuarezpuebla.gob.mx
+
+WordPress
+	https://losreyesdejuarezpuebla.gob.mx/wp-admin/edit.php?post_type=page
+	Losreyes2124
+	PhgJmpdzNDOM9w5lPMcsJ*jV
+
+cPanel
+	https://losreyesdejuarezpuebla.gob.mx:2083/
+
+Facebook
+	https://www.facebook.com/ayuntamientolosreyesdejuarez
+
+	--> comunicacionlosreyesdejuarez@gmail.com
+	--> luis.paginasweb2021@gmail.com
+
+
+Paleta de colores:
+	--> Actual: #ABB8C3
+	--> #C2BA98
+	--> #65676B	
+	--> #D3C5A8
+	--> #62696A
+
+CONAC
+	https://losreyesdejuarezpuebla.gob.mx/conac-2018/
+	https://losreyesdejuarezpuebla.gob.mx/conac-2019/
+	https://losreyesdejuarezpuebla.gob.mx/conac-2020/
+	https://losreyesdejuarezpuebla.gob.mx/conac-2021/
+
+	https://losreyesdejuarezpuebla.gob.mx/x-conac-2021/
+
+
+CONAC 2021 conac-2021
+
+
+// ----------------------------------------------------------------------
+Sitio Prueba LocalWP
+user --> admin
+pass -->Admin123+
+
+
+// -----------------------LOCAL LARAGON-----------------------------------------------
+Los Reyes De Juárez
+	--> bd_los_reyes_de_juarez
+		user --> root
+		pass --> ""
+	--> wordpress
+		user --> admin
+		PASS --> T%r&eul7($tu6)N@K$
+
+
+
+
+
+button, input[type="button"], input[type="reset"], input[type="submit"] {
+    border: 1px solid;
+    border-color: #ccc #ccc #bbb;
+    border-radius: 3px;
+    background: #e6e6e6;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.5), inset 0 15px 17px rgba(255, 255, 255, 0.5), inset 0 -5px 12px rgba(0, 0, 0, 0.05);
+    color: rgba(0, 0, 0, .8);
+    font-size: 12px;
+    font-size: 0.75rem;
+    line-height: 1;
+    padding: .6em 1em .4em;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+}
+
+button, input[type="button"], input[type="reset"], input[type="submit"] {
+    box-shadow: none;
+}
+
