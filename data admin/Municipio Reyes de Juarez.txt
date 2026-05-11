@@ -9,6 +9,16 @@ WordPress
 cPanel
 	https://losreyesdejuarezpuebla.gob.mx:2083/
 
+
+FileZilla ===============================================================================
+User--> 
+Pass--> kN@f2pcpry
+
+FTP server: sls.pyf.mybluehost.me
+FTP Username: 
+FTP & explicit FTPS port:  21
+
+
 Facebook
 	https://www.facebook.com/ayuntamientolosreyesdejuarez
 
